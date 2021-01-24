@@ -11,49 +11,65 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Graduate in Shenzhen Middle School, 2019
+* B.S. in University of Illinois Urbana, Champaign, 2023(expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Data Analyst Assistant
+  * Shenzhen Institute of Advance Technology
+  * Duties included: Data Cleaning, Feature engineering
+  * Supervisor: Mentor Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019 - Present: Technology Engineer
+  * Chinese Uinon - Illinois Champaign Student Organization
+  * Duties included: Web development, Database management
+  * Supervisor: Shan, Sun
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: 
+  * Java
+  * C++
+  * Python
+* Web Technologies:
+  * HTML
+  * CSS
+  * Javascript
+* Database management:
+  * mySQL
+* Miscellaneous:
+  * Android
+  * MIPS Assembly
+* Operating System:
+  * Windows, Linux
 
-Publications
+Key courses taken
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Completed:
+  * Discrete Structure
+  * Data Structure
+  * Computer Architecture
+  * Calculus
+* Ongoing:
+  * Database System
+  * Data Mining
+  * Artifical Intelligence
+  * Applied Linear Algebra
   
-Talks
+Projects
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* OpenFlights Data Structure
+  * Built a data structure based on datasets provided by openflights.org using adjacent matrix, priority queue, and BFS. Applied Dijkstra's ALgorithm to find the shortest flight path between any airports. Visualized the shortest path on the world map using Line-drawing Algorithm.
+* Calculate 24 Game
+  * Developed an Android Game using Java. Designed a Graphical User Interface. Used a Web-API to request the solution from the server and display.
+* Spimbot Tracer
+  * Created a Spimbot for Computer Arcitecture project using MIPS Assembly. The Spimbot can spirally dectect the nearest kernal and collect it. Tracer finished rank 2 twice among all teams in 10 tournments
+* Chess Engine
+  * Developed a Chess engine using Java. Created a Piece class and a Board class to perform legal moves, capture and checkmate.
   
-Teaching
+Links
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Github: /xxxfzxxx
+* LinkedIn: /in/feng-zongxian-829b951b5/
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

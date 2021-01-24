@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "冯宗宪的小站"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zongxian Feng"
+description              : &description "University of Illinois Urbana, Champaign"
+url                      : https://xxxfzxxx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "xxxfzxxx/xxxfzxxx.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zongxian Feng"
   avatar           : "profile.png"
-  bio              : "A UIUC sophomore"
-  location         : "Location : Champaign, IL"
+  bio              : "A UIUC sophomore chinese student"
+  location         : "Champaign, IL"
   employer         :
   pubmed           : 
   googlescholar    : 
